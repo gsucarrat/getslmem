@@ -12,6 +12,6 @@ The package *getslmem* requires version 0.39 of the package *gets*, which is und
 Next, to install *getslmem*, use the following command:
 
     install.packages(
-      "https://github.com/gsucarrat/getslmem/blob/main/getslmem_1.0.tar.gz",
+      "https://github.com/gsucarrat/getslmem/raw/master/getslmem_1.0.tar.gz",
       repos = NULL, type = "source"
     )
